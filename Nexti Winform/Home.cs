@@ -1,8 +1,8 @@
 namespace Nexti_Winform
 {
-    public partial class Form1 : Form
+    public partial class Home : Form
     {
-        public Form1()
+        public Home()
         {
             InitializeComponent();
         }

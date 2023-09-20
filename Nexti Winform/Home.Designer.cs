@@ -1,6 +1,6 @@
 ﻿namespace Nexti_Winform
 {
-    partial class Form1
+    partial class Home
     {
         /// <summary>
         ///  Required designer variable.
